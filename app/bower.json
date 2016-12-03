@@ -1,0 +1,25 @@
+{
+  "name": "angular-mini-project",
+  "description": "Mini Project For sanghvi technologies pvt ltd",
+  "main": "index.js",
+  "authors": [
+    "Pratik Pandey"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.9",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "ng-table": "^2.2.0",
+    "angular-route": "^1.5.9"
+  }
+}
